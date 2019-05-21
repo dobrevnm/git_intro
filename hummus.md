@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A recipe for trouble
 
 - chickpeas
 - tahini

@@ -18,9 +18,16 @@ for filename in filenames:
 
 # A Recipe for Guacamole
 
+## Ingredients
+
 - avocado
 - onion
 - tomatoes
 - salt & pepper
 
-Put into a bowl and mix  
+## Instructions
+
+- chop onion and tomatoes
+- cit open avocado and remove stone
+- scoop out flesh
+- put into a bowl and mix  

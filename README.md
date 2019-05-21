@@ -20,6 +20,6 @@ for filename in filenames:
 
 - avocado
 - onion
--salt & pepper
+- salt & pepper
 
 Put into a bowl and mix  

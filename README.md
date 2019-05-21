@@ -18,8 +18,6 @@ for filename in filenames:
 
 # A Recipe for Guacamole
 
-Make sure to enjoy!
-
 - avocado
 - onion
 - tomatoes

@@ -11,7 +11,15 @@ Introduction to git - an example repository generated during EMBL **Git** versio
 `code can be highlighted with backticks` 
 
 ```Python
-for file in filenames:
-  print(file)
+for filename in filenames:
+  print(filename)
 ``` 
-  
+
+
+# A Recipe for Guacamole
+
+- avocado
+- onion
+-salt & pepper
+
+Put into a bowl and mix  

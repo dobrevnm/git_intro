@@ -1,2 +1,2 @@
-# git_intro
-Introduction to git - an example repository
+# git_intro EMBL HD
+Introduction to git - an example repository generated during EMBL **Git** version control introduction course

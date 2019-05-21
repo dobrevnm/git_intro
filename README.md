@@ -1,6 +1,7 @@
 # git_intro EMBL HD
 Introduction to git - an example repository generated during EMBL **Git** version control introduction course
 
+// double backslash comment
 - you can add bullets
   - and sub-bullets
 - [and links](https://bio-it.embl.de)
